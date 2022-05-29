@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1031357083570",
+    "firebase_url": "https://toetactic-619a0-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "toetactic-619a0",
+    "storage_bucket": "toetactic-619a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031357083570:android:9ab7228d66a6b123617eab",
+        "android_client_info": {
+          "package_name": "com.chillystudio.toetactic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031357083570-2tid8eji4ep65rrbnl71opdq215qukf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXXFe9DltLctk-R6P4RW1G2hS7IT2lr4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031357083570-2tid8eji4ep65rrbnl71opdq215qukf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
