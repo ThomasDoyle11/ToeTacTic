@@ -57,7 +57,7 @@ public class GameController : MonoBehaviour
         joinGameButton.onClick.AddListener(LookForGame);
         ShowInfoText("Welcome");
 
-        player = new Player("Poop", 0, 0, 0);
+        player = new Player("1", 0, 0, 0);
     }
 
     public void LookForGame()
